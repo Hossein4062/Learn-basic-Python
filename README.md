@@ -1,2 +1,4 @@
 # Learn-basic-Python
-In this course, basic Python topics will be taught. The topics, texts, and codes of this course are derived from websites such as Udemy, Coursera, and Google for Education. Wishing you success, dear learner. 😉
+In this course, the basic concepts of Python will be taught.
+
+The materials, texts, and codes in this training are adapted from websites such as Udemy, Coursera, and Google for Education. It is worth mentioning that the above topics have been prepared for teaching at Shahed University, Tehran-Iran. Wishing you success, dear learner. 😉
