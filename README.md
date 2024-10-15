@@ -1,4 +1,2 @@
 # Learn-basic-Python
-In this course, the basic concepts of Python will be taught.
-
-The materials, texts, and codes in this training are adapted from websites such as Udemy, Coursera, and Google for Education. It is worth mentioning that the above topics have been prepared for teaching at Shahed University, Tehran-Iran. Wishing you success, dear learner. 😉
+In this course, we will cover the foundational topics of Python. The topics, texts, and code in this training are derived from the websites Udemy, Coursera, and Google for Education. It is important to mention two points. First, some unresolved errors may appear in the code, which are intended for discussion and analysis in the classroom. Second, the mentioned topics have been prepared for teaching at Shahed University, Tehran, Iran. Wishing you success, dear learner. 😉
